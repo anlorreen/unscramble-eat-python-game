@@ -1,4 +1,8 @@
-# unscramble-eat-python-game
+# Unscramble Eat
+
+Authors:
+Marie Francheska Masangkay
+Ayla Odasco
 
 ![unscramblegif](https://user-images.githubusercontent.com/55151917/115996168-c7667400-a610-11eb-9835-6c9a98bd5cca.gif)
 
